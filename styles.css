@@ -197,6 +197,18 @@ body{
     background-color: #272727;
 }
 
+.img-holder{
+    width: 200px;
+    height: 150px;
+    border: 20px solid #eb7029;
+    border-radius: 100px;
+}
+
+.about-info{
+    float: right;
+    margin-left: 10em;
+}
+
 .socials{
     list-style: none;
     display: flex;
